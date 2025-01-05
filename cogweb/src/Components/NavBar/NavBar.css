@@ -20,7 +20,7 @@ nav{
     width: 100px;
 }
 .icons{
-    transform: TranslateY(-10px);
+    /*transform: TranslateY(-10px);*/
     width: 40px;
     
 }
@@ -33,7 +33,7 @@ nav ul li{
 
 .btn{
     transition: all 0.4s;
-    transform: TranslateY(-30px);
+    transform: TranslateY(-20px);
     background-color: transparent;
     border-color: #F5F5F5;
     color:#F5F5F5;
