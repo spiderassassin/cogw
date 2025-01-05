@@ -1,0 +1,76 @@
+.aboutsection{
+    background-color: white;
+    min-height: 90vh;
+    margin-top: -0px;
+    display: flex;
+    flex-direction: column;
+  
+}
+  
+.image{
+    align-items: right;
+    max-height: 30vh;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    padding-top: 2vh;
+}
+.profile-image{
+    align-items: right;
+    max-height: 30vh;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    padding-top: 2vh;
+    border-radius: 50%;
+}
+
+.sectionheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: bottom;
+}
+
+.sectiontitle{
+    font-size: 3vh;
+    color: black;
+    padding-left: 10vw;
+    text-decoration: none;
+}
+.sectioncontent{
+    font-size: 2.5vh;
+    color: black;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    text-decoration: none;
+    padding-bottom: 5vh;
+
+}
+.contentwithimage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.teammembersection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10vh;
+    align-items: center;
+
+}
+.teammembersectionreverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding-bottom: 10vh;
+    text-align: right;
+    align-items: center;
+}
+.teammembertitleanddescription{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
