@@ -16,3 +16,7 @@ a{
 }
 .container{ 
 }
+  /* media query */
+  @media (max-width: 1000px){
+
+  }

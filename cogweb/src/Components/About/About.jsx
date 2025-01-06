@@ -31,9 +31,11 @@ const About = () => {
                         
                         <div className="teammembertitleanddescription">
                         <h4>Dave Goel</h4>
-                        <h5> Producer, Audio, Programmer </h5>
-                        Dave is the Producer of COG Studios Inc. Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie litora pretium amet senectus non. Faucibus fames maecenas leo pulvinar a hendrerit. Penatibus habitant dignissim bibendum molestie, dolor mauris interdum cras. Integer imperdiet pharetra posuere placerat posuere, leo fringilla massa. Orci efficitur volutpat montes consectetur consequat at. Hac iaculis pellentesque netus commodo tempor curae. Nibh cubilia interdum curae semper ipsum dapibus.
-
+                        <h5> Producer, Audio, Gameplay Programmer </h5>
+                        Two things that Dave is passionate about is Kinect Sports and Plants vs Zombies.  In addition to being a game developer, 
+                        Dave is also an AI Games researcher, currently pursuing a Masters degree in Computing Science, having a publication at 
+                        the Artificial Intelligence and Interactive Digital Entertainment. 
+                        When not busy with work, he likes to brush up on his guitar skills.
                         </div>
         
                         <img className="profile-image" src={dave} alt="dave"></img>
@@ -46,7 +48,7 @@ const About = () => {
                         <div className="teammembertitleanddescription">
                         <h4>Shasta Johnsen-Sollos</h4>
                         <h5> Assistant Producer, Systems Programmer </h5>
-                        Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie litora pretium amet senectus non. Faucibus fames maecenas leo pulvinar a hendrerit. Penatibus habitant dignissim bibendum molestie, dolor mauris interdum cras. Integer imperdiet pharetra posuere placerat posuere, leo fringilla massa. Orci efficitur volutpat montes consectetur consequat at. Hac iaculis pellentesque netus commodo tempor curae. Nibh cubilia interdum curae semper ipsum dapibus.
+                        Good at programming.
                         </div>
         
                         <img className="profile-image" src={shasta} alt="shasta"></img>
@@ -58,8 +60,8 @@ const About = () => {
                         
                         <div className="teammembertitleanddescription">
                         <h4>Ganesh Saraswat</h4>
-                        <h5> Programmer </h5>
-                        Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie litora pretium amet senectus non. Faucibus fames maecenas leo pulvinar a hendrerit. Penatibus habitant dignissim bibendum molestie, dolor mauris interdum cras. Integer imperdiet pharetra posuere placerat posuere, leo fringilla massa. Orci efficitur volutpat montes consectetur consequat at. Hac iaculis pellentesque netus commodo tempor curae. Nibh cubilia interdum curae semper ipsum dapibus.
+                        <h5> Lead Programmer </h5>
+                        Ganesh has a decade of experience programming experience using C#, C++, and Java. He has developed an open-source full body tracking plugin for Unity and has collaborated with a variety of teams ranging from student groups in Europe to an AR development team in China to help to integrate the plugin into their game projects.
                         </div>
         
                         <img className="profile-image" src={gan} alt="gan"></img>
@@ -71,8 +73,8 @@ const About = () => {
                         
                         <div className="teammembertitleanddescription">
                         <h4>Zoe Snyder</h4>
-                        <h5> Artist, Narrative Designer </h5>
-                        Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie litora pretium amet senectus non. Faucibus fames maecenas leo pulvinar a hendrerit. Penatibus habitant dignissim bibendum molestie, dolor mauris interdum cras. Integer imperdiet pharetra posuere placerat posuere, leo fringilla massa. Orci efficitur volutpat montes consectetur consequat at. Hac iaculis pellentesque netus commodo tempor curae. Nibh cubilia interdum curae semper ipsum dapibus.
+                        <h5> 2D Artist, Narrative Designer </h5>
+                        Can Draw.
                         </div>
         
                         <img className="profile-image" src={zoe} alt="zoe"></img>
@@ -85,7 +87,7 @@ const About = () => {
                         <div className="teammembertitleanddescription">
                         <h4>Samuel Anderson</h4>
                         <h5> 3D Artist </h5>
-                        Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie litora pretium amet senectus non. Faucibus fames maecenas leo pulvinar a hendrerit. Penatibus habitant dignissim bibendum molestie, dolor mauris interdum cras. Integer imperdiet pharetra posuere placerat posuere, leo fringilla massa. Orci efficitur volutpat montes consectetur consequat at. Hac iaculis pellentesque netus commodo tempor curae. Nibh cubilia interdum curae semper ipsum dapibus.
+                        He blends sometimes.
                         </div>
         
                         <img className="profile-image" src={sam} alt="sam"></img>
