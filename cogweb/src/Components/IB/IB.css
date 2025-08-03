@@ -4,7 +4,7 @@
    background-color: black;
 }
 .vid {
-    
+    transition: all 0.4s;
     width: 100%;
     object-fit: cover;
     opacity: 1;
@@ -24,6 +24,7 @@
     border: 0;    
     }
 .content{
+    transition: all 0.4s;
    position: absolute; 
    width: 100%;
    height: 100%;

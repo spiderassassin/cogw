@@ -1,0 +1,52 @@
+.SNE{
+    position: relative;
+   width:100%;
+   background-color: black;
+}
+.vid {
+    transition: all 0.4s;
+    width: 100%;
+    object-fit: cover;
+    opacity: 1;
+    }
+.steam{
+        width: 7vw;
+    }
+
+.SNE button{
+    background-color: transparent;
+    border-color: #F5F5F5;
+    color:#F5F5F5;
+    padding: 14px 25px;
+    font-size: 1.5vw;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;    
+    }
+.content{
+    transition: all 0.4s;
+   position: absolute; 
+   width: 100%;
+   height: 100%;
+   top: 0;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   opacity: 0;
+}
+.SNE :hover .vid{
+    opacity: 0.4;
+}
+.SNE :hover .content{
+    opacity: 1;
+}
+
+/* media query */
+
+@media (max-width: 800px){
+    /*.IB button{
+        font-size: 8px;
+    }*/
+}

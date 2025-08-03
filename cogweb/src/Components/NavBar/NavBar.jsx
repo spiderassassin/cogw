@@ -3,6 +3,7 @@ import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy } fro
 import './NavBar.css'
 import logo from '../../assets/coglogo.png'
 import titletext from '../../assets/titletext.png'
+import clown from '../../assets/Clown.png'
 import instagram from '../../assets/insta.png'
 import discord from '../../assets/discord.png'
 import youtube from '../../assets/youtube.png'
@@ -21,6 +22,7 @@ const NavBar = () => {
         
       <li><Link to='aboutsection' smooth={true} offset={-100} duration={500} ><button className='btn'>About us</button></Link></li>
         <li><Link to='contact' smooth={true} offset={0} duration={500} ><button className='btn'>Contact us</button></Link></li>
+        <li><Link to='SNE' smooth={true} offset={0} duration={500} ><button className='btn-icon'><img src={clown} alt="" className='icons' /></button></Link></li>
         <li><Link to='IB' smooth={true} offset={0} duration={500} ><button className='btn-icon'><img src={titletext} alt="" className='title' /></button></Link></li>
         <li><a href="https://www.instagram.com/cogstudiosinc"><button className='btn-icon'><img src={instagram} alt="" className='icons' /></button></a></li>
         <li><a href="https://discord.com/invite/GsrrGxVPfd"><button className='btn-icon'><img src={discord} alt="" className='icons' /></button></a></li>

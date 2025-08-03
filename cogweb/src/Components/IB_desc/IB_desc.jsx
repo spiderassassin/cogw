@@ -6,7 +6,7 @@ const IB_desc = () => {
   return (
     <div className='IB_desc'>
       
-      <a href="https://store.steampowered.com/app/3041890/Infernal_Bloodrush/">
+      
       <div className="desc">
 
       <h1>A 2.5d first-person doomlike where instead of shooting bullets,
@@ -21,7 +21,7 @@ const IB_desc = () => {
               </button>
   </div>*/}
       </div> 
-    </a>
+    
     </div>
     
   )
